@@ -1,0 +1,9 @@
+<NODES>
+digit
+image
+label
+
+<EDGES>
+digit -> image
+image -> label
+digit -> label
